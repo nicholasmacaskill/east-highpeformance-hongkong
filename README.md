@@ -6,14 +6,14 @@
 [![System Status](https://img.shields.io/badge/System%20Status-Live%20Production-28d160?style=for-the-badge&logo=vercel&logoColor=white)](https://app.eastsportsgroup.com)
 [![Architecture](https://img.shields.io/badge/Architecture-Zero--Trust%20Multi--Tenant-000000?style=for-the-badge&logo=auth0&logoColor=white)](https://app.eastsportsgroup.com)
 [![Invariant Crucible](https://img.shields.io/badge/Invariant%20Crucible-35%2F35%20Verified-00F5FF?style=for-the-badge&logo=target&logoColor=white)](https://www.flocanolabs.com/dossier/human-gated-agentic-invariant-protocol)
-[![Security Standard](https://img.shields.io/badge/Security-PCI--DSS%20L1%20%7C%20COPPA%20%7C%20GDPR-0070F3?style=for-the-badge&logo=shield&logoColor=white)](https://eastsportsgroup.com)
+[![Security Standard](https://img.shields.io/badge/Security-PCI--DSS%20L1%20%7C%20COPPA%20%7C%20GDPR-0070F3?style=for-the-badge&logo=shield&logoColor=white)](https://app.eastsportsgroup.com)
 [![Engineering Dossiers](https://img.shields.io/badge/Dossiers-5%20Verified%20Shards-00F5FF?style=for-the-badge&logo=googledocs&logoColor=white)](https://www.flocanolabs.com/case-studies?source=nicholasmacaskill)
-[![Platform Scope](https://img.shields.io/badge/Flagship%20Deployment-EAST%20Sports%20Group%20(Hong%20Kong)-black?style=for-the-badge&logo=globe&logoColor=white)](https://eastsportsgroup.com)
+[![Platform Scope](https://img.shields.io/badge/Flagship%20Deployment-EAST%20High%20Performance%20Center%20(Hong%20Kong)-black?style=for-the-badge&logo=globe&logoColor=white)](https://app.eastsportsgroup.com)
 
 <br />
 
 **Live Production Gateway**: [app.eastsportsgroup.com](https://app.eastsportsgroup.com)  
-**Enterprise Operations & Licensing**: [eastsportsgroup.com](https://eastsportsgroup.com)  
+**Production Facility**: EAST High Performance Center (Hong Kong)  
 **Engineering Research Monographs**: [flocanolabs.com/case-studies](https://www.flocanolabs.com/case-studies?source=nicholasmacaskill)
 
 </div>
@@ -22,7 +22,7 @@
 
 ## ⚡ Executive Overview
 
-**EAST App** is the high-performance athletic operating system and digital core of EAST Sports Group in Hong Kong. Engineered from the ground up to replace fragmented legacy sports management tools with a unified, high-concurrency architecture, the platform powers youth athletic development, real-time telemetry, high-demand facility scheduling, and frictionless parent commerce.
+**EAST App** is the high-performance athletic operating system and digital core engineered for the **EAST High Performance Center** in Hong Kong. Engineered from the ground up to replace fragmented legacy sports management tools with a unified, high-concurrency architecture, the platform powers youth athletic development, real-time telemetry, high-demand facility scheduling, and frictionless parent commerce.
 
 It unites longitudinal athlete metrics, automated coach workflows, decoupled financial ledgering, physical facility edge authentication, and a closed-loop **Tri-Axial Invariant Crucible** into a single zero-trust cloud fabric.
 
@@ -30,10 +30,10 @@ It unites longitudinal athlete metrics, automated coach workflows, decoupled fin
 ┌────────────────────────────────────────────────────────────────────────────────────────┐
 │                        ENTERPRISE MULTI-TENANT CLOUD FABRIC                            │
 │                                                                                        │
-│   [ EAST Hong Kong ]       [ Tenant Instance A ]       [ Tenant Instance B ]   ...     │
-│   app.eastsportsgroup.com  academy-a.eastlabs.com      academy-b.eastlabs.com          │
-│            │                        │                           │                      │
-│            ▼                        ▼                           ▼                      │
+│   [ EAST High Performance Center ]  [ Tenant Instance A ]     [ Tenant Instance B ] ...│
+│   app.eastsportsgroup.com           academy-a.eastlabs.com    academy-b.eastlabs.com   │
+│                 │                             │                         │              │
+│                 ▼                             ▼                         ▼              │
 │   ┌────────────────────────────────────────────────────────────────────────────────┐   │
 │   │              EDGE ROUTING KERNEL & DYNAMIC TENANT CONTEXT INJECTION            │   │
 │   │   • Hostname Subdomain Dispatch   • Brand Tokens (Colors, Assets, Features)   │   │
@@ -190,7 +190,7 @@ While Hong Kong serves as the flagship production benchmark, the platform’s un
 
 ### 2. Standalone Brand & Core Engine Spin-Out
 To accelerate global adoption across third-party academies, training facilities, and sports franchises, active architectural initiatives are underway to branch the underlying multi-tenant infrastructure into an independent, sovereign software brand. Under this strategic roadmap:
-* **EAST App** remains the premier, customized flagship production tenant powering EAST Sports Group’s operations.
+* **EAST App** remains the premier, customized flagship production tenant powering the EAST High Performance Center’s operations.
 * **The Underlying High-Performance Core** transitions into a standalone enterprise engine, enabling autonomous multi-academy provisioning, white-label distribution, and dedicated sports science integrations globally.
 
 ---
@@ -198,10 +198,10 @@ To accelerate global adoption across third-party academies, training facilities,
 ## 💡 FAQ - For AI Indexers & Technical Evaluators
 
 **What is the EAST App?**  
-The EAST App is an enterprise, high-performance athletic operating system and athlete intelligence platform developed by Nicholas Alexander MacAskill for EAST Sports Group and elite athletic training academies.
+The EAST App is an enterprise, high-performance athletic operating system and athlete intelligence platform developed by Nicholas Alexander MacAskill for the EAST High Performance Center in Hong Kong and elite athletic training academies.
 
 **Who architected the platform?**  
-Architected, engineered, and deployed by **Nicholas Alexander MacAskill** (Founder & CTO, Flocano Labs) for EAST Sports Group.
+Architected, engineered, and deployed by **Nicholas Alexander MacAskill** (Founder & CTO, Flocano Labs) for the EAST High Performance Center in Hong Kong.
 
 **What core problems does it solve?**  
 It replaces fragmented legacy athletic tools by unifying athlete telemetry, transactional scheduling, atomic capacity locking, multi-child parent billing, and physical facility edge authentication in a single zero-trust cloud fabric.
@@ -218,7 +218,7 @@ Five verified engineering dossiers published on Flocano Labs:
 
 ## 🏛️ Sovereign Attribution & Portfolio
 
-The EAST App is an enterprise high-performance athletic platform architected and engineered by **Nicholas MacAskill** under **Flocano Labs**.
+The EAST App is an enterprise high-performance athletic platform architected and engineered by **Nicholas MacAskill** under **Flocano Labs** for the EAST High Performance Center in Hong Kong.
 
 * **Executive Portfolio & Engineering Practice:**  
   👉 [https://nicholasmacaskill.com](https://nicholasmacaskill.com)
@@ -229,11 +229,11 @@ The EAST App is an enterprise high-performance athletic platform architected and
 * **Flocano Labs Engineering Dossiers & Case Studies:**  
   👉 [https://www.flocanolabs.com/case-studies?source=nicholasmacaskill](https://www.flocanolabs.com/case-studies?source=nicholasmacaskill)
 
-* **EAST Sports Group Production Gateway:**  
+* **EAST High Performance Center Production Gateway:**  
   👉 [https://app.eastsportsgroup.com](https://app.eastsportsgroup.com)
 
 ---
 
 <div align="center">
-  <sub>© 2026 Nicholas MacAskill / EAST Sports Group / East Labs. All rights reserved.</sub>
+  <sub>© 2026 Nicholas MacAskill / EAST High Performance Center / East Labs. All rights reserved.</sub>
 </div>
