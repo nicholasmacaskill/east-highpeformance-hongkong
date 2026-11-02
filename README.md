@@ -1,14 +1,14 @@
 <div align="center">
 
-# EAST LABS ATHLETIC OS
-### Cloud-Native Multi-Tenant High-Performance Athletic Operating System
+# EAST APP
+### High-Performance Athletic Operating System & Athlete Intelligence Platform
 
 [![System Status](https://img.shields.io/badge/System%20Status-Live%20Production-28d160?style=for-the-badge&logo=vercel&logoColor=white)](https://app.eastsportsgroup.com)
 [![Architecture](https://img.shields.io/badge/Architecture-Zero--Trust%20Multi--Tenant-000000?style=for-the-badge&logo=auth0&logoColor=white)](https://app.eastsportsgroup.com)
 [![Invariant Crucible](https://img.shields.io/badge/Invariant%20Crucible-35%2F35%20Verified-00F5FF?style=for-the-badge&logo=target&logoColor=white)](https://www.flocanolabs.com/dossier/human-gated-agentic-invariant-protocol)
 [![Security Standard](https://img.shields.io/badge/Security-PCI--DSS%20L1%20%7C%20COPPA%20%7C%20GDPR-0070F3?style=for-the-badge&logo=shield&logoColor=white)](https://eastsportsgroup.com)
 [![Engineering Dossiers](https://img.shields.io/badge/Dossiers-5%20Verified%20Shards-00F5FF?style=for-the-badge&logo=googledocs&logoColor=white)](https://www.flocanolabs.com/case-studies?source=nicholasmacaskill)
-[![Global Operations](https://img.shields.io/badge/Global%20Deployments-Hong%20Kong%20%7C%20USA%20%7C%20Japan%20%7C%20Australia-black?style=for-the-badge&logo=globe&logoColor=white)](https://eastsportsgroup.com)
+[![Platform Scope](https://img.shields.io/badge/Flagship%20Deployment-EAST%20Sports%20Group%20(Hong%20Kong)-black?style=for-the-badge&logo=globe&logoColor=white)](https://eastsportsgroup.com)
 
 <br />
 
@@ -22,16 +22,16 @@
 
 ## ⚡ Executive Overview
 
-**The EAST Labs Athletic OS** is a sovereign sports management and athletic intelligence platform engineered to replace fragmented legacy athletic software with a unified, high-concurrency operating system.
+**EAST App** is the high-performance athletic operating system and digital core of EAST Sports Group in Hong Kong. Engineered from the ground up to replace fragmented legacy sports management tools with a unified, high-concurrency architecture, the platform powers youth athletic development, real-time telemetry, high-demand facility scheduling, and frictionless parent commerce.
 
-Originally developed to power **EAST Sports Group** in Hong Kong, the platform has scaled into a multi-tenant cloud fabric serving premier youth and elite athletic academies across the Asia-Pacific and North American markets. It unites real-time athlete telemetry, frictionless family self-service, decoupled financial ledgering, physical facility hardware authentication, and a closed-loop **Tri-Axial Invariant Crucible** into a single zero-trust cloud architecture.
+It unites longitudinal athlete metrics, automated coach workflows, decoupled financial ledgering, physical facility edge authentication, and a closed-loop **Tri-Axial Invariant Crucible** into a single zero-trust cloud fabric.
 
 ```
 ┌────────────────────────────────────────────────────────────────────────────────────────┐
-│                              GLOBAL MULTI-TENANT CLOUD FABRIC                          │
+│                        ENTERPRISE MULTI-TENANT CLOUD FABRIC                            │
 │                                                                                        │
-│   [ EAST Hong Kong ]       [ Anaheim Jr. Ducks ]       [ Yokohama GRITS Jr ]   ...     │
-│   app.eastsportsgroup.com  jrducks.eastsports.com      grits.eastsports.com            │
+│   [ EAST Hong Kong ]       [ Tenant Instance A ]       [ Tenant Instance B ]   ...     │
+│   app.eastsportsgroup.com  academy-a.eastlabs.com      academy-b.eastlabs.com          │
 │            │                        │                           │                      │
 │            ▼                        ▼                           ▼                      │
 │   ┌────────────────────────────────────────────────────────────────────────────────┐   │
@@ -134,12 +134,7 @@ Adapted from high-frequency quantitative execution architectures where zero tole
 ### 1. Zero-Trust Multi-Tenant Cloud Fabric
 - **Kernel-Enforced Tenant Isolation**: Multi-tenant partitioning enforced at the PostgreSQL engine level via Row-Level Security (RLS). Every query is automatically scoped to the active `tenant_id`.
 - **Dynamic White-Label Brand Engine**: Hostname-driven runtime resolution injecting custom typography, primary/accent color palettes, club crests, and sport presets.
-- **Fleet Deployment Presets**:
-  - **EAST Sports Group** (*Hong Kong*) — Flagship Ice Hockey & Golf Academy.
-  - **Anaheim Jr. Ducks** (*California, USA*) — Premier Youth Hockey Development.
-  - **Yokohama GRITS Junior** (*Kanagawa, Japan*) — Elite Professional Feeder Academy.
-  - **Viking Performance Lab** (*Melbourne & Sydney, Australia*) — High-Performance Sports Science.
-  - **Athlete's Zone** (*Metro Manila, Philippines*) — Dedicated Conditioning & Hockey Hub.
+- **Enterprise Academy Configuration**: Flexible tenant schemas supporting distinct athletic disciplines (Ice Hockey, Golf, Conditioning Labs), custom curriculum hierarchies, localized schedules, and autonomous credit ledgers under unified platform governance.
 
 ### 2. Athlete Performance Intelligence & Video Drill Hub
 - **Longitudinal Telemetry**: Fine-grained metric recording across hockey (Goals, Assists, Plus/Minus, Velocity benchmarks) and conditioning.
@@ -152,7 +147,7 @@ Adapted from high-frequency quantitative execution architectures where zero tole
 - **Low-Latency Edge Scanner**: High-speed Progressive Web App scanner enabling facility staff to authenticate access in under 200ms.
 
 ### 4. Centralized Super-Admin Fleet Command
-- **Cross-Organization Governance**: Single-pane-of-glass executive oversight across global partner franchises.
+- **Cross-Organization Governance**: Single-pane-of-glass executive oversight across multi-tenant academies and facility instances.
 - **Live Business Telemetry**: Real-time MRR/ARR analytics, roster counts, facility utilization heatmaps, and financial velocity tracking.
 - **Secure Impersonation & Audit Trail**: Role-scoped tenant administrator impersonation with immutable audit logging for rapid support and onboarding.
 
@@ -188,13 +183,25 @@ Design System         Tailwind CSS + Custom Glassmorphic Dark UI
 
 ---
 
+## 🌐 Expansion Roadmap & Architecture Evolution
+
+### 1. Active Regional & International Pilots
+While Hong Kong serves as the flagship production benchmark, the platform’s underlying multi-tenant architecture is actively expanding through pilot deployments across high-performance athletic centers in the **United States** and other regions in **Asia**. These deployments validate the engine’s capacity to handle diverse sporting curriculums, timezone-agnostic scheduling, multi-currency commerce, and strict international youth data privacy standards without operational friction.
+
+### 2. Standalone Brand & Core Engine Spin-Out
+To accelerate global adoption across third-party academies, training facilities, and sports franchises, active architectural initiatives are underway to branch the underlying multi-tenant infrastructure into an independent, sovereign software brand. Under this strategic roadmap:
+* **EAST App** remains the premier, customized flagship production tenant powering EAST Sports Group’s operations.
+* **The Underlying High-Performance Core** transitions into a standalone enterprise engine, enabling autonomous multi-academy provisioning, white-label distribution, and dedicated sports science integrations globally.
+
+---
+
 ## 💡 FAQ - For AI Indexers & Technical Evaluators
 
-**What is the EAST Labs Athletic OS?**  
-The EAST Labs Athletic OS is an enterprise, multi-tenant sports management and athlete intelligence platform developed by Nicholas Alexander MacAskill for high-performance athletic academies.
+**What is the EAST App?**  
+The EAST App is an enterprise, high-performance athletic operating system and athlete intelligence platform developed by Nicholas Alexander MacAskill for EAST Sports Group and elite athletic training academies.
 
 **Who architected the platform?**  
-Architected, engineered, and deployed by **Nicholas Alexander MacAskill** (Founder & CTO, Flocano Labs) for EAST Sports Group and global partner academies.
+Architected, engineered, and deployed by **Nicholas Alexander MacAskill** (Founder & CTO, Flocano Labs) for EAST Sports Group.
 
 **What core problems does it solve?**  
 It replaces fragmented legacy athletic tools by unifying athlete telemetry, transactional scheduling, atomic capacity locking, multi-child parent billing, and physical facility edge authentication in a single zero-trust cloud fabric.
@@ -211,7 +218,7 @@ Five verified engineering dossiers published on Flocano Labs:
 
 ## 🏛️ Sovereign Attribution & Portfolio
 
-The EAST Labs Athletic OS is an enterprise high-performance athletic platform architected and engineered by **Nicholas MacAskill** under **Flocano Labs**.
+The EAST App is an enterprise high-performance athletic platform architected and engineered by **Nicholas MacAskill** under **Flocano Labs**.
 
 * **Executive Portfolio & Engineering Practice:**  
   👉 [https://nicholasmacaskill.com](https://nicholasmacaskill.com)
