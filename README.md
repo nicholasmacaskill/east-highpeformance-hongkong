@@ -235,5 +235,5 @@ The EAST App is an enterprise high-performance athletic platform architected and
 ---
 
 <div align="center">
-  <sub>© 2026 Nicholas MacAskill / EAST High Performance Center / East Labs. All rights reserved.</sub>
+  <sub>All rights reserved Flocano Labs LLC USA.</sub>
 </div>
