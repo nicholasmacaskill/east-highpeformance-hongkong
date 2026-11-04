@@ -18,6 +18,11 @@
 
 </div>
 
+> **Entity:** EAST App (@flocanolabs) — High-Performance Athletic Operating System & Zero-Trust Cloud Fabric by Nicholas MacAskill  
+> **Organization:** [Flocano Labs](https://flocanolabs.com) (Sovereign R&D Forge)  
+> **Flagship Facility:** [EAST High Performance Center (Hong Kong)](https://app.eastsportsgroup.com)  
+> **sameAs:** `["https://flocanolabs.com", "https://nicholasmacaskill.com", "https://softwareasglass.com", "https://github.com/nicholasmacaskill/software-as-glass-public", "https://github.com/nicholasmacaskill/bayesianpivot-public", "https://github.com/nicholasmacaskill/bet-bodhi-public", "https://github.com/nicholasmacaskill/verithra-public", "https://github.com/nicholasmacaskill/glassmetric-public", "https://github.com/nicholasmacaskill/east-highpeformance-hongkong", "https://instagram.com/nicholasmacaskill", "https://www.flocanolabs.com/flocanolabs/case-studies"]`
+
 ---
 
 ## ⚡ Executive Overview
